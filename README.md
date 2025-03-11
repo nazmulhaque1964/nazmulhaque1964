@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<h1 align="center">🌟Tanvir Hossain || Front-End Web Application Developer 🌟</h1>
+<h3 align="center">Hello! I'm Tanvir Hossain, a Passionate and skilled Front-End web application developer with hands-on experience. I specialise in building dynamic and scalable front-end web applications using Tailwind, Bootstrap, JavaScript, React, MySQL, and NoSQL databases like MongoDB, as well as experience with Firebase and knowledge about backend frameworks like Express.js and agile development methodologies.</h3>
+<img align="right" alt="Coding" width="400" 
+  
 <!--
 **nazmulhaque1964/nazmulhaque1964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
