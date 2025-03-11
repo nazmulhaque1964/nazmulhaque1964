@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<h1 align="center">🌟Tanvir Hossain || Front-End Web Application Developer 🌟</h1>
-<h3 align="center">Hello! I'm Tanvir Hossain, a Passionate and skilled Front-End web application developer with hands-on experience. I specialise in building dynamic and scalable front-end web applications using Tailwind, Bootstrap, JavaScript, React, MySQL, and NoSQL databases like MongoDB, as well as experience with Firebase and knowledge about backend frameworks like Express.js and agile development methodologies.</h3>
-<img align="right" alt="Coding" width="400" 
+<h1 align="center">🌟Nazmul Haque || Front-End and Back-End Web Application Developer 🌟</h1>
+<h3 align="center">Hello! I'm Nazmul, a Passionate and skilled Front-End web application developer with hands-on experience. I specialise in building dynamic and scalable front-end web applications using Tailwind, Bootstrap, JavaScript, React, dJango MySQL, and NoSQL databases like MongoDB, as well as experience with Firebase and knowledge about backend frameworks like Express.js and agile development methodologies.</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
   
 <!--
 **nazmulhaque1964/nazmulhaque1964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
