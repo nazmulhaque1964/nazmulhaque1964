@@ -1,5 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=3VmcE5VqzNPxAHlx6WJdBCVNvDs1x6InIFLjQp5lrLE)
-
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Alt text](images/example.png)
 ## Hi there 👋
 
 <h1 align="center">🌟Nazmul Haque || Front-End and Back-End Web Application Developer 🌟</h1>
